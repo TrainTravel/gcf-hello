@@ -1,6 +1,6 @@
 import scala.scalajs.js
 import scala.scalajs.js.annotation._
-import facade.HelloFacade._
+import facade.Response
 
 object Main {
   @JSExportTopLevel("helloGET")
